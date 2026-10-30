@@ -1,0 +1,6 @@
+{
+  "name": "LEADS BRYANSK",
+  "description": "Профессиональная система поиска и генерации лидов среди предприятий и организаций города Брянска без собственного сайта.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
