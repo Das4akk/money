@@ -1,6 +1,6 @@
 {
-  "name": "LEADS BRYANSK",
-  "description": "Профессиональная система поиска и генерации лидов среди предприятий и организаций города Брянска без собственного сайта.",
+  "name": "FORM STUDIO • Лиды Брянска",
+  "description": "Профессиональная система поиска клиентов, аудита потерь и генерации продающих сообщений для бизнеса г. Брянска от Даниила (FORM STUDIO).",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
